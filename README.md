@@ -66,9 +66,6 @@ Trí tuệ nhân tạo không chỉ là lý thuyết. Với repo này, bạn có
 - Phân loại bệnh dựa trên chỉ số y tế
 - Tạo hệ thống cảnh báo sớm cho tài chính, nông nghiệp
 - Làm nền cho các chatbot, hệ thống tự động hóa thông minh
-
-> **"Code hôm nay, cứu thế giới ngày mai."**
-
 ---
 
 ## 🛠 Cấu Trúc Repo
@@ -89,14 +86,18 @@ PYTHON_TTNT/
 ## ⚡️ Chạy thử ngay
 
 1. **Cài các thư viện cần thiết:**  
-       `bash
+       `
        pip install numpy pandas matplotlib scikit-learn tensorflow
        `
 
 2. **Chạy từng file ví dụ:**  
-       `bash
+       `
        python Linear.py
+   `
+   `
        python Logistics.py
+   `
+   `
        python RNN.py
        `
 
