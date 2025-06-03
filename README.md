@@ -128,5 +128,3 @@ Hãy tạo pull request hoặc mở issue nhé.
 ---
 
 ## 🌟 Stay inspired & keep coding!
-
-```
